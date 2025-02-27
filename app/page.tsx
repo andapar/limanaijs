@@ -75,19 +75,19 @@ export default function Home() {
         </a>
 
         <a
-          href="https://www.youtube.com/@limanfinance"
+          href="https://github.com/yunuscebeci21"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Eğlenceli ve sıkıcı finansal videolar{" "}
+            Web3 ve P2P Finans'ta Açık Kaynak çalışmalarımız. {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Hap bilgiler ve Finansal röportajlarımızı izleyin.
+            Finansal chatbot için bize yazın.
           </p>
         </a>
 
@@ -98,13 +98,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Premium paket için iletişime geç-{" "}
+            Premium finansal verileri satın almak istermisin -{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Yatırım analitiğinde daha fazla özellik!
+            Haftalık 2 USD'ye Uygulama ve Yazılımlara tam erişim. 
           </p>
         </a>
       </div>
